@@ -19,6 +19,7 @@
     "alliances": [
       619,
       790,
+      4271,
       10334
     ]
   },
@@ -26,6 +27,7 @@
     "name": "SAIL",
     "alliances": [
       831,
+      4124,
       4221,
       4648,
       4729,
@@ -37,7 +39,7 @@
     ]
   },
   {
-    "name": "Sin Sphere",
+    "name": "SIN Sphere",
     "alliances": [
       1742,
       4567,
@@ -58,7 +60,7 @@
     ]
   },
   {
-    "name": "CTO sphere",
+    "name": "CTO Sphere",
     "alliances": [
       5049,
       8899,
@@ -68,9 +70,10 @@
     ]
   },
   {
-    "name": "Insane sphere",
+    "name": "Insane Sphere",
     "alliances": [
       622,
+      2594,
       4124,
       11020,
       11062
